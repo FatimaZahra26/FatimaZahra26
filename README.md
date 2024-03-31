@@ -1,6 +1,7 @@
 
-Uploading 1.gif
-<h1 align="center">Hi 👋, I'm Fatima Zahra Hajaj</h1>
+
+<h1 align="center">Hi 👋, I'm Fatima Zahra Hajaj</h1>![Uploading 1.gif…]()
+
 <h3 align="center">A full stack developer</h3>
 
 - 🔭 I’m currently working on **My Final Year Project**
