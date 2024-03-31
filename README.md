@@ -1,4 +1,4 @@
-![logo](https://github.com/FatimaZahra26/FatimaZahra26/blob/main/2.gif)
+![logo](https://github.com/FatimaZahra26/FatimaZahra26/blob/main/3.gif)
 
 <h1 align="center">Hi 👋, I'm Fatima Zahra Hajaj</h1>
 
